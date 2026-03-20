@@ -96,7 +96,7 @@ A curated list of awesome tools, platforms, products, and resources for Managed 
 
 ## DNS Management
 - [Unified DNS](https://udns.app) - Unified DNS is a multi-tenant DNS management platform for MSPs to manage zones and records across multiple providers from a single dashboard with audit trails, automated backups, and integrations to PSA and IT documentation platforms.
-- 
+
 ## Email Security
 - [Avanan](https://www.avanan.com/) - Enterprise email security solutions to prevent phishing, malware, data leakage, account takeover & shadow IT for cloud applications.
 - [Barracuda Email Protection](https://www.barracuda.com/products/email-protection) - Security, Application Delivery and Data Protection Solutions.
